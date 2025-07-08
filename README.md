@@ -106,8 +106,7 @@ E-Book 기반으로 언제 어디서든 열람 가능(PC, 모바일, 태블릿 �
 </div>
 
 ## Business Model
-<img src="" width="650" alt="">
-![image](https://github.com/user-attachments/assets/ea37c8b2-a1dd-435a-a452-c6b76a4f337f)
+<img src="https://github.com/user-attachments/assets/ea37c8b2-a1dd-435a-a452-c6b76a4f337f" width="650" alt="">
 
 ### `“리프(Leaf)” 가상 재화 결제 모델`<br>
 |① 리프(Leaf) 구매|② 도서 생성 시 리프 소모|
